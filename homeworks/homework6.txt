@@ -1,0 +1,53 @@
+
+
+    Courses
+    Data Engineering Zoomcamp 2026
+
+    katwre@gmail.com
+    (Logout )
+
+Homework 6: Batch for Data Engineering Zoomcamp 2026
+
+Due date: 10 March 2026 00:59 (local time)
+Questions
+
+Question 1. Install Spark and PySpark (1 point)
+
+Question 2. Yellow November 2025 (1 point)
+6MB
+25MB
+75MB
+100MB
+
+Question 3. Count records (1 point)
+62,610
+102,340
+162,604
+225,768
+
+Question 4. Longest trip (1 point)
+22.7
+58.2
+90.6
+134.5
+
+Question 5. User Interface (1 point)
+80
+443
+4040
+8080
+
+Question 6. Least frequent pickup location zone (1 point)
+Governor's Island/Ellis Island/Liberty Island
+Arden Heights
+Rikers Island
+Jamaica Bay
+Homework URL
+Learning in public links (optional)
+Time spent on lectures (hours) (optional)
+Time spent on homework (hours) (optional)
+FAQ contribution (FAQ document, optional)
+
+Status: Not submitted
+
+DataTalks.Club, Course Management Platform on GitHub (version 20260311-160712-2530501)
