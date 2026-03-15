@@ -1,0 +1,55 @@
+
+
+    Courses
+    Data Engineering Zoomcamp 2026
+
+    katwre@gmail.com
+    (Logout )
+
+Homework 7: Streaming for Data Engineering Zoomcamp 2026
+
+https://github.com/DataTalksC…
+
+Due date: 20 March 2026 00:59 (local time)
+Questions
+
+Question 1. Redpanda version (1 point)
+
+Question 2. Sending data to Redpanda (1 point)
+10 seconds
+60 seconds
+120 seconds
+300 seconds
+
+Question 3. Consumer - trip distance (1 point)
+6506
+7506
+8506
+9506
+
+Question 4. Tumbling window - pickup location (1 point)
+42
+74
+75
+166
+
+Question 5. Session window - longest streak (1 point)
+12
+31
+51
+81
+
+Question 6. Tumbling window - largest tip (1 point)
+2025-10-01 18:00:00
+2025-10-16 18:00:00
+2025-10-22 08:00:00
+2025-10-30 16:00:00
+Homework URL
+Learning in public links (optional)
+Time spent on lectures (hours) (optional)
+Time spent on homework (hours) (optional)
+FAQ contribution (FAQ document, optional)
+
+Status: Not submitted
+
+DataTalks.Club, Course Management Platform on GitHub (version 20260311-160712-2530501)
